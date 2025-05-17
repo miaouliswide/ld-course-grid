@@ -82,7 +82,7 @@ The front-end grid includes a filter form allowing users to:
 
 ### File Structure
 ```
-MyCustom-course-grid/
+ld-course-grid/
 ├── assets/
 │   ├── css/
 │   │   └── ld-course-grid.css
