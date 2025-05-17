@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnDash Course Grid 6.1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-16 21:15+0300\n"
+"PO-Revision-Date: 2025-05-16 18:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: el_GR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Parser: loco_parse_po"
+
+#: ld-course-grid.php:10
+msgid ""
+"Creates a custom post type for LearnDash courses and displays them in a card "
+"grid with pagination and advanced filtering."
+msgstr ""
+"Δημιουργεί έναν προσαρμοσμένο τύπο ανάρτησης για μαθήματα LearnDash και τα "
+"εμφανίζει σε πλέγμα καρτών με σελιδοποίηση και προηγμένη φιλτράρισμα."
+
+#: ld-course-grid.php:50
+msgctxt "Post Type General Name"
+msgid "LearnDash Courses"
+msgstr "Μαθήματα LearnDash"
+
+#: ld-course-grid.php:51
+msgctxt "Post Type Singular Name"
+msgid "LearnDash Course"
+msgstr "Μάθημα LearnDash"
+
+#: ld-course-grid.php:52
+msgid "LearnDash Courses"
+msgstr "Μαθήματα LearnDash"
+
+#: ld-course-grid.php:53
+msgid "LearnDash Course"
+msgstr "Μάθημα LearnDash"
+
+#: ld-course-grid.php:54
+msgid "Add New"
+msgstr "Προσθήκη Νέου"
+
+#: ld-course-grid.php:55
+msgid "Add New Course"
+msgstr "Προσθήκη Νέου Μαθήματος"
+
+#: ld-course-grid.php:56
+msgid "Edit Course"
+msgstr "Επεξεργασία Μαθήματος"
+
+#: ld-course-grid.php:57
+msgid "New Course"
+msgstr "Νέο Μάθημα"
+
+#: ld-course-grid.php:58
+msgid "View Course"
+msgstr "Προβολή Μαθήματος"
+
+#: ld-course-grid.php:59
+msgid "All Courses"
+msgstr "Όλα τα Μαθήματα"
+
+#: ld-course-grid.php:60
+msgid "Search Courses"
+msgstr "Αναζήτηση Μαθημάτων"
+
+#: ld-course-grid.php:71
+msgctxt "Taxonomy General Name"
+msgid "Course Categories"
+msgstr "Κατηγορίες Μαθημάτων"
+
+#: ld-course-grid.php:72
+msgctxt "Taxonomy Singular Name"
+msgid "Course Category"
+msgstr "Κατηγορία Μαθήματος"
+
+#: ld-course-grid.php:73
+msgid "Course Categories"
+msgstr "Κατηγορίες Μαθημάτων"
+
+#: ld-course-grid.php:87
+msgctxt "Taxonomy General Name"
+msgid "Languages"
+msgstr "Γλώσσες"
+
+#: ld-course-grid.php:88
+msgctxt "Taxonomy Singular Name"
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: ld-course-grid.php:89
+msgid "Languages"
+msgstr "Γλώσσες"
+
+#: ld-course-grid.php:119
+msgid "Course Details"
+msgstr "Λεπτομέρειες Μαθήματος"
+
+#: ld-course-grid.php:149
+msgid "Course Price (e.g., 49.99)"
+msgstr "Τιμή Μαθήματος (π.χ., 49.99)"
+
+#: ld-course-grid.php:153
+msgid "Course URL"
+msgstr "URL Μαθήματος"
+
+#: ld-course-grid.php:157
+msgid "Button Text"
+msgstr "Κείμενο Κουμπιού"
+
+#: ld-course-grid.php:161
+msgid "Created By"
+msgstr "Δημιουργήθηκε Από"
+
+#: ld-course-grid.php:167
+msgid "Number of Lessons"
+msgstr "Αριθμός Μαθημάτων"
+
+#: ld-course-grid.php:171
+msgid "Number of Quizzes"
+msgstr "Αριθμός Κουίζ"
+
+#: ld-course-grid.php:175
+msgid "Source LearnDash Course ID (if imported)"
+msgstr "ID Πηγαίου Μαθήματος LearnDash (εάν εισήχθη)"
+
+#: ld-course-grid.php:256
+msgid "Search courses by title or category..."
+msgstr "Αναζήτηση μαθημάτων ανά τίτλο ή κατηγορία..."
+
+#: ld-course-grid.php:258
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: ld-course-grid.php:263
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: ld-course-grid.php:265
+msgid "All Categories"
+msgstr "Όλες οι Κατηγορίες"
+
+#: ld-course-grid.php:272
+msgid "Tag"
+msgstr "Ετικέτα"
+
+#: ld-course-grid.php:274
+msgid "All Tags"
+msgstr "Όλες οι Ετικέτες"
+
+#: ld-course-grid.php:281
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: ld-course-grid.php:283
+msgid "All Languages"
+msgstr "Όλες οι Γλώσσες"
+
+#: ld-course-grid.php:290
+msgid "Price Range"
+msgstr "Εύρος Τιμής"
+
+#: ld-course-grid.php:298
+msgid "Price Range: €%s - €%s"
+msgstr "Εύρος Τιμής: €%s - €%s"
+
+#: ld-course-grid.php:305
+msgid "Filter"
+msgstr "Φίλτρο"
+
+#: ld-course-grid.php:306
+msgid "Reset"
+msgstr "Επαναφορά"
+
+#: ld-course-grid.php:324
+msgid "No courses found. Try adjusting your search or filters."
+msgstr ""
+"Δεν βρέθηκαν μαθήματα. Δοκιμάστε να προσαρμόσετε την αναζήτηση ή τα φίλτρα "
+"σας."
+
+#: ld-course-grid.php:347
+msgid "Uncategorized"
+msgstr "Χωρίς Κατηγορία"
+
+#: ld-course-grid.php:349
+msgid "Unknown"
+msgstr "Άγνωστο"
+
+#: ld-course-grid.php:211
+msgid "Previous"
+msgstr "Προηγούμενο"
+
+#: ld-course-grid.php:225
+msgid "Next"
+msgstr "Επόμενο"
+
+#: ld-course-grid.php:187
+msgid "Loading..."
+msgstr "Φόρτωση..."
+
+#: ld-course-grid.php:188
+msgid "Error loading courses."
+msgstr "Σφάλμα κατά τη φόρτωση των μαθημάτων."
+
+#: ld-course-grid.php:189
+msgid "Error loading courses: "
+msgstr "Σφάλμα κατά τη φόρτωση των μαθημάτων: "
+
+#: ld-course-grid.php:190
+msgid ""
+"LearnDash courses (sfwd-courses) are not available. Please ensure LearnDash "
+"is installed and activated."
+msgstr ""
+"Τα μαθήματα LearnDash (sfwd-courses) δεν είναι διαθέσιμα. Βεβαιωθείτε ότι το "
+"LearnDash είναι εγκατεστημένο και ενεργοποιημένο."
+
+#: ld-course-grid.php:435
+msgid ""
+"No courses found for the selected search or filters. Try different options."
+msgstr ""
+"Δεν βρέθηκαν μαθήματα για την επιλεγμένη αναζήτηση ή φίλτρα. Δοκιμάστε "
+"διαφορετικές επιλογές."
+
+#: ld-course-grid.php:514
+msgid "Import SFWD Courses"
+msgstr "Εισαγωγή Μαθημάτων SFWD"
+
+#: ld-course-grid.php:517
+msgid ""
+"Import courses from LearnDash (sfwd-courses) into the custom ld_course post "
+"type."
+msgstr ""
+"Εισαγωγή μαθημάτων από το LearnDash (sfwd-courses) στον προσαρμοσμένο τύπο "
+"ανάρτησης ld_course."
+
+#: ld-course-grid.php:524
+msgid "Default Language for Imported Courses"
+msgstr "Προεπιλεγμένη Γλώσσα για Εισαγόμενα Μαθήματα"
+
+#: ld-course-grid.php:526
+msgid "Greek"
+msgstr "Ελληνικά"
+
+#: ld-course-grid.php:527
+msgid "English"
+msgstr "Αγγλικά"
+
+#: ld-course-grid.php:530
+msgid "Import Courses"
+msgstr "Εισαγωγή Μαθημάτων"
+
+#: ld-course-grid.php:531
+msgid "Update existing imported courses"
+msgstr "Ενημέρωση υπαρχόντων εισαγόμενων μαθημάτων"
+
+#: ld-course-grid.php:539
+msgid "Importing..."
+msgstr "Εισαγωγή..."
+
+#: ld-course-grid.php:540
+msgid "Import in progress, please wait..."
+msgstr "Η εισαγωγή βρίσκεται σε εξέλιξη, παρακαλώ περιμένετε..."
+
+#: ld-course-grid.php:553
+msgid "An error occurred during the import: "
+msgstr "Προέκυψε σφάλμα κατά την εισαγωγή: "
+
+#: ld-course-grid.php:578
+msgid "You do not have permission to perform this action."
+msgstr "Δεν έχετε άδεια να εκτελέσετε αυτήν την ενέργεια."
+
+#: ld-course-grid.php:582
+msgid "LearnDash is not active or sfwd-courses post type is missing."
+msgstr "Το LearnDash δεν είναι ενεργό ή ο τύπος ανάρτησης sfwd-courses λείπει."
+
+#: ld-course-grid.php:662
+msgid "Skipped course \"%s\" (already imported)."
+msgstr "Παράλειψη μαθήματος \"%s\" (έχει ήδη εισαχθεί)."
+
+#: ld-course-grid.php:670
+msgid "Failed to import course \"%s\": %s"
+msgstr "Αποτυχία εισαγωγής μαθήματος \"%s\": %s"
+
+#: ld-course-grid.php:710
+msgid "No categories found for course \"%s\" (no matching categories found)."
+msgstr ""
+"Δεν βρέθηκαν κατηγορίες για το μάθημα \"%s\" (δεν βρέθηκαν αντίστοιχες "
+"κατηγορίες)."
+
+#: ld-course-grid.php:705
+msgid "Failed to create category \"%s\" for course \"%s\"."
+msgstr "Αποτυχία δημιουργίας κατηγορίας \"%s\" για το μάθημα \"%s\"."
+
+#: ld-course-grid.php:722
+msgid "Failed to set categories for course \"%s\": %s"
+msgstr "Αποτυχία ορισμού κατηγοριών για το μάθημα \"%s\": %s"
+
+#: ld-course-grid.php:748
+msgid "Could not set language \"%s\" for course \"%s\"."
+msgstr "Δεν ήταν δυνατός ο ορισμός της γλώσσας \"%s\" για το μάθημα \"%s\"."
+
+#: ld-course-grid.php:758
+msgid "Import completed: %d courses imported, %d updated, %d skipped."
+msgstr ""
+"Η εισαγωγή ολοκληρώθηκε: %d μαθήματα εισήχθησαν, %d ενημερώθηκαν, %d "
+"παραλείφθηκαν."
+
+#: ld-course-grid.php:760
+msgid "Errors:"
+msgstr "Σφάλματα:"
